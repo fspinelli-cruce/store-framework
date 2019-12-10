@@ -8,6 +8,9 @@
     ]
   },
   "search-result-layout.desktop": {
+    "props": {
+      "pagination": "show-more"
+    },
     "children": [
       "breadcrumb.search",
       "search-title.v2",
