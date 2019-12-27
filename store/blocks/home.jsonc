@@ -26,7 +26,7 @@
         "blockClass":"vintage"
      }
   },
-  "info-card#button-left":{ 
+  "info-card#button-left":{
      "props":{ 
         "isFullModeStyle":false,
         "textPosition":"left",
